@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import { mobile } from "../responsive";
+import React, { Component }  from 'react';
 
 const Container = styled.div`
   width: 100vw;

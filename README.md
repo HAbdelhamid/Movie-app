@@ -1,8 +1,5 @@
-# NetFilm
-
-A Website To Watch HD Movies, Anime And TV Online For Free Using NextJS
-
 ## Overview
+A Website To Watch HD Movies, Anime And TV Online For Free Using NextJS
 
 - Official website: https://netfilm.app
 - **Note: The source code above is the outdated old version**
